@@ -13,7 +13,6 @@ Plug 'junegunn/fzf.vim'
 Plug 'scrooloose/nerdtree'
 Plug 'jistr/vim-nerdtree-tabs'
 Plug 'mkitt/tabline.vim'
-Plug 'ryanoasis/vim-devicons'
 "Color:
 Plug 'morhetz/gruvbox'
 "Golang:
